@@ -23,7 +23,7 @@ public class ClientC implements MyDocumentAggregate {
 		
 		// add the files under specific paths
 		pathA.add(new MyDocument("XMLA.xml", "XML"));
-		pathA.add(new MyDocument("XMLA2.xml", "XML"));
+		pathA.add(new MyDocument("PDFA2.PDF", "PDF"));
 		pathB.add(new MyDocument("XMLB.xml", "XML"));
 		pathB.add(new MyDocument("XMLB2.xml", "XML"));
 		pathC.add(new MyDocument("XMLC.xml", "XML"));
